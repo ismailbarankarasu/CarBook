@@ -1,6 +1,6 @@
 ﻿namespace CarBook.Domain.Entities
 {
-    public class Services
+    public class Service
     {
         public int ServiceId { get; set; }
         public string Title { get; set; }

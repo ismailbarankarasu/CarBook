@@ -1,5 +1,12 @@
 <Solution>
   <Folder Name="/Core/">
+    <Project Path="Core/CarBook.Application/CarBook.Application.csproj" Id="cc1ca730-f9e4-4a34-99bc-5d8e5bcd2b22" />
     <Project Path="Core/CarBook.Domain/CarBook.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/CarBook.Persistence/CarBook.Persistence.csproj" Id="952ea7b3-48c3-48a8-8462-ef328c238e0c" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/CarBook.WebApi/CarBook.WebApi.csproj" Id="0a32bbb4-9780-4b60-9467-3662a9874df1" />
   </Folder>
 </Solution>
